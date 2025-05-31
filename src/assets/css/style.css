@@ -20,7 +20,7 @@ body {
 }
 
 .container a {
-  text-decoration: none !important;
+  text-decoration: none;
 }
 
 ul li {
