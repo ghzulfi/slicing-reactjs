@@ -53,11 +53,7 @@ function SectionComponent() {
           <div className="prod-line">
             <div className="pline1">
               <a href="#">
-                <img
-                  src="src/assets/images/pro1.jpg"
-                  alt=""
-                  className="imgpro"
-                />
+                <img src="assets/images/pro1.jpg" alt="" className="imgpro" />
               </a>
               <div className="pline1-1">
                 <a href="#" className="sub3">
@@ -71,7 +67,7 @@ function SectionComponent() {
                   <div>
                     <a href="#">
                       <img
-                        src="src/assets/images/ava1.png"
+                        src="assets/images/ava1.png"
                         alt=""
                         className="ava"
                       />
@@ -105,11 +101,7 @@ function SectionComponent() {
             </div>
             <div className="pline1">
               <a href="#">
-                <img
-                  src="src/assets/images/pro2.jpg"
-                  alt=""
-                  className="imgpro"
-                />
+                <img src="assets/images/pro2.jpg" alt="" className="imgpro" />
               </a>
               <div className="pline1-1">
                 <a href="#" className="sub3">
@@ -123,7 +115,7 @@ function SectionComponent() {
                   <div>
                     <a href="#">
                       <img
-                        src="src/assets/images/ava2.png"
+                        src="assets/images/ava2.png"
                         alt=""
                         className="ava"
                       />
@@ -157,11 +149,7 @@ function SectionComponent() {
             </div>
             <div className="pline1">
               <a href="#">
-                <img
-                  src="src/assets/images/pro3.jpg"
-                  alt=""
-                  className="imgpro"
-                />
+                <img src="assets/images/pro3.jpg" alt="" className="imgpro" />
               </a>
               <div className="pline1-1">
                 <a href="#" className="sub3">
@@ -175,165 +163,7 @@ function SectionComponent() {
                   <div>
                     <a href="#">
                       <img
-                        src="src/assets/images/ava3.png"
-                        alt=""
-                        className="ava"
-                      />
-                    </a>
-                  </div>
-                  <div className="avadetail">
-                    <a href="#" className="name">
-                      Jenna Ortega
-                    </a>
-                    <a href="#" className="job">
-                      Senior Accountant di <b>Gojek</b>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div className="ratingprice">
-                <div className="starrate">
-                  <div className="star">
-                    <i className="fas fa-star"></i>
-                    <i className="fas fa-star"></i>
-                    <i className="fas fa-star"></i>
-                    <i className="fas fa-star-half-alt"></i>
-                    <i className="fa-regular fa-star"></i>
-                  </div>
-                  <span className="rating">3.5 (86)</span>
-                </div>
-                <div>
-                  <span className="price">Rp 300K</span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="prod-line">
-            <div className="pline1">
-              <a href="#">
-                <img
-                  src="src/assets/images/pro4.jpg"
-                  alt=""
-                  className="imgpro"
-                />
-              </a>
-              <div className="pline1-1">
-                <a href="#" className="sub3">
-                  Big 4 Auditor Financial Analyst
-                </a>
-                <a href="#" className="dmsansprod">
-                  Mulai transformasi dengan instruktur profesional, harga yang
-                  terjangkau, dan kurikulum terbaik
-                </a>
-                <div className="avaprofile">
-                  <div>
-                    <a href="#">
-                      <img
-                        src="src/assets/images/ava4.png"
-                        alt=""
-                        className="ava"
-                      />
-                    </a>
-                  </div>
-                  <div className="avadetail">
-                    <a href="#" className="name">
-                      Jenna Ortega
-                    </a>
-                    <a href="#" className="job">
-                      Senior Accountant di <b>Gojek</b>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div className="ratingprice">
-                <div className="starrate">
-                  <div className="star">
-                    <i className="fas fa-star"></i>
-                    <i className="fas fa-star"></i>
-                    <i className="fas fa-star"></i>
-                    <i className="fas fa-star-half-alt"></i>
-                    <i className="fa-regular fa-star"></i>
-                  </div>
-                  <span className="rating">3.5 (86)</span>
-                </div>
-                <div>
-                  <span className="price">Rp 300K</span>
-                </div>
-              </div>
-            </div>
-            <div className="pline1">
-              <a href="#">
-                <img
-                  src="src/assets/images/pro5.jpg"
-                  alt=""
-                  className="imgpro"
-                />
-              </a>
-              <div className="pline1-1">
-                <a href="#" className="sub3">
-                  Big 4 Auditor Financial Analyst
-                </a>
-                <a href="#" className="dmsansprod">
-                  Mulai transformasi dengan instruktur profesional, harga yang
-                  terjangkau, dan kurikulum terbaik
-                </a>
-                <div className="avaprofile">
-                  <div>
-                    <a href="#">
-                      <img
-                        src="src/assets/images/ava5.png"
-                        alt=""
-                        className="ava"
-                      />
-                    </a>
-                  </div>
-                  <div className="avadetail">
-                    <a href="#" className="name">
-                      Jenna Ortega
-                    </a>
-                    <a href="#" className="job">
-                      Senior Accountant di <b>Gojek</b>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div className="ratingprice">
-                <div className="starrate">
-                  <div className="star">
-                    <i className="fas fa-star"></i>
-                    <i className="fas fa-star"></i>
-                    <i className="fas fa-star"></i>
-                    <i className="fas fa-star-half-alt"></i>
-                    <i className="fa-regular fa-star"></i>
-                  </div>
-                  <span className="rating">3.5 (86)</span>
-                </div>
-                <div>
-                  <span className="price">Rp 300K</span>
-                </div>
-              </div>
-            </div>
-            <div className="pline1">
-              <a href="#">
-                <img
-                  src="src/assets/images/pro6.jpg"
-                  alt=""
-                  className="imgpro"
-                />
-              </a>
-              <div className="pline1-1">
-                <a href="#" className="sub3">
-                  Big 4 Auditor Financial Analyst
-                </a>
-                <a href="#" className="dmsansprod">
-                  Mulai transformasi dengan instruktur profesional, harga yang
-                  terjangkau, dan kurikulum terbaik
-                </a>
-                <div className="avaprofile">
-                  <div>
-                    <a href="#">
-                      <img
-                        src="src/assets/images/ava6.png"
+                        src="assets/images/ava3.png"
                         alt=""
                         className="ava"
                       />
@@ -369,11 +199,7 @@ function SectionComponent() {
           <div className="prod-line">
             <div className="pline1">
               <a href="#">
-                <img
-                  src="src/assets/images/pro7.jpg"
-                  alt=""
-                  className="imgpro"
-                />
+                <img src="assets/images/pro4.jpg" alt="" className="imgpro" />
               </a>
               <div className="pline1-1">
                 <a href="#" className="sub3">
@@ -387,7 +213,7 @@ function SectionComponent() {
                   <div>
                     <a href="#">
                       <img
-                        src="src/assets/images/ava7.png"
+                        src="assets/images/ava4.png"
                         alt=""
                         className="ava"
                       />
@@ -421,11 +247,7 @@ function SectionComponent() {
             </div>
             <div className="pline1">
               <a href="#">
-                <img
-                  src="src/assets/images/pro8.jpg"
-                  alt=""
-                  className="imgpro"
-                />
+                <img src="assets/images/pro5.jpg" alt="" className="imgpro" />
               </a>
               <div className="pline1-1">
                 <a href="#" className="sub3">
@@ -439,7 +261,7 @@ function SectionComponent() {
                   <div>
                     <a href="#">
                       <img
-                        src="src/assets/images/ava8.png"
+                        src="assets/images/ava5.png"
                         alt=""
                         className="ava"
                       />
@@ -473,11 +295,7 @@ function SectionComponent() {
             </div>
             <div className="pline1">
               <a href="#">
-                <img
-                  src="src/assets/images/pro9.jpg"
-                  alt=""
-                  className="imgpro"
-                />
+                <img src="assets/images/pro6.jpg" alt="" className="imgpro" />
               </a>
               <div className="pline1-1">
                 <a href="#" className="sub3">
@@ -491,7 +309,153 @@ function SectionComponent() {
                   <div>
                     <a href="#">
                       <img
-                        src="src/assets/images/ava9.png"
+                        src="assets/images/ava6.png"
+                        alt=""
+                        className="ava"
+                      />
+                    </a>
+                  </div>
+                  <div className="avadetail">
+                    <a href="#" className="name">
+                      Jenna Ortega
+                    </a>
+                    <a href="#" className="job">
+                      Senior Accountant di <b>Gojek</b>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="ratingprice">
+                <div className="starrate">
+                  <div className="star">
+                    <i className="fas fa-star"></i>
+                    <i className="fas fa-star"></i>
+                    <i className="fas fa-star"></i>
+                    <i className="fas fa-star-half-alt"></i>
+                    <i className="fa-regular fa-star"></i>
+                  </div>
+                  <span className="rating">3.5 (86)</span>
+                </div>
+                <div>
+                  <span className="price">Rp 300K</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="prod-line">
+            <div className="pline1">
+              <a href="#">
+                <img src="assets/images/pro7.jpg" alt="" className="imgpro" />
+              </a>
+              <div className="pline1-1">
+                <a href="#" className="sub3">
+                  Big 4 Auditor Financial Analyst
+                </a>
+                <a href="#" className="dmsansprod">
+                  Mulai transformasi dengan instruktur profesional, harga yang
+                  terjangkau, dan kurikulum terbaik
+                </a>
+                <div className="avaprofile">
+                  <div>
+                    <a href="#">
+                      <img
+                        src="assets/images/ava7.png"
+                        alt=""
+                        className="ava"
+                      />
+                    </a>
+                  </div>
+                  <div className="avadetail">
+                    <a href="#" className="name">
+                      Jenna Ortega
+                    </a>
+                    <a href="#" className="job">
+                      Senior Accountant di <b>Gojek</b>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="ratingprice">
+                <div className="starrate">
+                  <div className="star">
+                    <i className="fas fa-star"></i>
+                    <i className="fas fa-star"></i>
+                    <i className="fas fa-star"></i>
+                    <i className="fas fa-star-half-alt"></i>
+                    <i className="fa-regular fa-star"></i>
+                  </div>
+                  <span className="rating">3.5 (86)</span>
+                </div>
+                <div>
+                  <span className="price">Rp 300K</span>
+                </div>
+              </div>
+            </div>
+            <div className="pline1">
+              <a href="#">
+                <img src="assets/images/pro8.jpg" alt="" className="imgpro" />
+              </a>
+              <div className="pline1-1">
+                <a href="#" className="sub3">
+                  Big 4 Auditor Financial Analyst
+                </a>
+                <a href="#" className="dmsansprod">
+                  Mulai transformasi dengan instruktur profesional, harga yang
+                  terjangkau, dan kurikulum terbaik
+                </a>
+                <div className="avaprofile">
+                  <div>
+                    <a href="#">
+                      <img
+                        src="assets/images/ava8.png"
+                        alt=""
+                        className="ava"
+                      />
+                    </a>
+                  </div>
+                  <div className="avadetail">
+                    <a href="#" className="name">
+                      Jenna Ortega
+                    </a>
+                    <a href="#" className="job">
+                      Senior Accountant di <b>Gojek</b>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="ratingprice">
+                <div className="starrate">
+                  <div className="star">
+                    <i className="fas fa-star"></i>
+                    <i className="fas fa-star"></i>
+                    <i className="fas fa-star"></i>
+                    <i className="fas fa-star-half-alt"></i>
+                    <i className="fa-regular fa-star"></i>
+                  </div>
+                  <span className="rating">3.5 (86)</span>
+                </div>
+                <div>
+                  <span className="price">Rp 300K</span>
+                </div>
+              </div>
+            </div>
+            <div className="pline1">
+              <a href="#">
+                <img src="assets/images/pro9.jpg" alt="" className="imgpro" />
+              </a>
+              <div className="pline1-1">
+                <a href="#" className="sub3">
+                  Big 4 Auditor Financial Analyst
+                </a>
+                <a href="#" className="dmsansprod">
+                  Mulai transformasi dengan instruktur profesional, harga yang
+                  terjangkau, dan kurikulum terbaik
+                </a>
+                <div className="avaprofile">
+                  <div>
+                    <a href="#">
+                      <img
+                        src="assets/images/ava9.png"
                         alt=""
                         className="ava"
                       />

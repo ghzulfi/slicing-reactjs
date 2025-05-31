@@ -9,7 +9,7 @@ function FooterComponent() {
             <div className="footer-top-1">
               <div className="logo-bottom-1">
                 <img
-                  src="src/assets/images/logo.png"
+                  src="assets/images/logo.png"
                   alt=""
                   className="logo-bottom"
                 />
@@ -87,16 +87,16 @@ function FooterComponent() {
             </div>
             <div className="medsos-container">
               <a href="#">
-                <img className="medsos" src="src/assets/images/linkedin.png" />
+                <img className="medsos" src="assets/images/linkedin.png" />
               </a>
               <a href="#">
-                <img className="medsos" src="src/assets/images/fb.png" />
+                <img className="medsos" src="assets/images/fb.png" />
               </a>
               <a href="#">
-                <img className="medsos" src="src/assets/images/ig.png" />
+                <img className="medsos" src="assets/images/ig.png" />
               </a>
               <a href="#">
-                <img className="medsos" src="src/assets/images/x.png" />
+                <img className="medsos" src="assets/images/x.png" />
               </a>
             </div>
           </div>

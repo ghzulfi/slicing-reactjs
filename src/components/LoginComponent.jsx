@@ -43,7 +43,7 @@ function LoginComponent() {
                         <input type="password" required className="inputpass" />
 
                         <img
-                          src="../assets/images/eyelid.png"
+                          src="assets/images/eyelid.png"
                           className="eyeico"
                         />
                       </div>
@@ -77,7 +77,7 @@ function LoginComponent() {
                       <button className="tombolgoogle">
                         <div>
                           <img
-                            src="../assets/images/google.png"
+                            src="assets/images/google.png"
                             className="googleico"
                           />
                         </div>

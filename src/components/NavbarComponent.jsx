@@ -4,7 +4,7 @@ function NavbarComponent() {
     <header className="header">
       <nav className="nav-header">
         <a href="#" className="test">
-          <img src="src/assets/images/logo.png" alt="" className="logo" />
+          <img src="assets/images/logo.png" alt="" className="logo" />
         </a>
       </nav>
       <div className="navbar">
@@ -13,14 +13,10 @@ function NavbarComponent() {
         </a>
         <div className="prof">
           <a href="#">
-            <img
-              src="src/assets/images/profile.png"
-              alt=""
-              className="profile"
-            />
+            <img src="assets/images/profile.png" alt="" className="profile" />
           </a>
           <a href="#">
-            <img src="src/assets/images/menu.png" alt="" className="menu" />
+            <img src="assets/images/menu.png" alt="" className="menu" />
           </a>
         </div>
       </div>
