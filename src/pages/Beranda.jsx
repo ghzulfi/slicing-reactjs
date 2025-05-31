@@ -1,7 +1,7 @@
 import FooterComponent from "../components/FooterComponent";
 import NavbarComponent from "../components/NavbarComponent";
 import SectionComponent from "../components/SectionComponent";
-import "../assets/css/style.css";
+import "../styles/style.css";
 
 function Beranda() {
   return (

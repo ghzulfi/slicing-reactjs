@@ -1,5 +1,6 @@
+import FooterComponent from "../components/FooterComponent";
 import LoginComponent from "../components/LoginComponent";
-import "../assets/css/style.css";
+import "../styles/style.css";
 
 function Login() {
   return (

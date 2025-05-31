@@ -87,7 +87,7 @@ ul li {
 
 .isian {
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url("/src/assets/images/subtop.jpg");
+    url("/src/images/subtop.jpg");
   background-position: center;
   background-size: cover;
   padding: 30px 140px;
@@ -366,7 +366,7 @@ ul li {
 
 .isian2 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url("/src/assets/images/bottom.jpg");
+    url("/src/images/bottom.jpg");
   background-position: center;
   background-size: cover;
   padding: 30px 140px;

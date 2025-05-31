@@ -1,4 +1,4 @@
-import "../assets/css/style.css";
+import "../styles/style.css";
 
 function RegisterComponent() {
   return (
@@ -7,7 +7,7 @@ function RegisterComponent() {
         <header className="header">
           <nav className="nav-header">
             <a href="/">
-              <img src="assets/images/logo.png" alt="" className="logo" />
+              <img src="/src/images/logo.png" alt="" className="logo" />
             </a>
           </nav>
         </header>
@@ -58,10 +58,7 @@ function RegisterComponent() {
                       <div className="email">
                         <input type="password" required className="inputpass" />
 
-                        <img
-                          src="assets/images/eyelid.png"
-                          className="eyeico"
-                        />
+                        <img src="/src/images/eyelid.png" className="eyeico" />
                       </div>
                     </div>
                     <div>
@@ -71,10 +68,7 @@ function RegisterComponent() {
                       <div className="email">
                         <input type="password" required className="inputpass" />
 
-                        <img
-                          src="assets/images/eyelid.png"
-                          className="eyeico"
-                        />
+                        <img src="/src/images/eyelid.png" className="eyeico" />
                       </div>
                     </div>
                     <div className="forgot1">
@@ -106,7 +100,7 @@ function RegisterComponent() {
                       <button className="tombolgoogle">
                         <div>
                           <img
-                            src="assets/images/google.png"
+                            src="/src/images/google.png"
                             className="googleico"
                           />
                         </div>
