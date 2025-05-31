@@ -7,7 +7,7 @@ function RegisterComponent() {
         <header className="header">
           <nav className="nav-header">
             <a href="/">
-              <img src="/src/images/logo.png" alt="" className="logo" />
+              <img src="/images/logo.png" alt="" className="logo" />
             </a>
           </nav>
         </header>
@@ -58,7 +58,7 @@ function RegisterComponent() {
                       <div className="email">
                         <input type="password" required className="inputpass" />
 
-                        <img src="/src/images/eyelid.png" className="eyeico" />
+                        <img src="/images/eyelid.png" className="eyeico" />
                       </div>
                     </div>
                     <div>
@@ -68,7 +68,7 @@ function RegisterComponent() {
                       <div className="email">
                         <input type="password" required className="inputpass" />
 
-                        <img src="/src/images/eyelid.png" className="eyeico" />
+                        <img src="/images/eyelid.png" className="eyeico" />
                       </div>
                     </div>
                     <div className="forgot1">
@@ -99,10 +99,7 @@ function RegisterComponent() {
                     <a href="#">
                       <button className="tombolgoogle">
                         <div>
-                          <img
-                            src="/src/images/google.png"
-                            className="googleico"
-                          />
+                          <img src="/images/google.png" className="googleico" />
                         </div>
                         <div>Masuk dengan Google</div>
                       </button>
